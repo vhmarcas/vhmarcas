@@ -52,6 +52,21 @@
   "removidos": [],
   "armazenados": [
     {
+      "id": "a_mw8q1nxcj9xn",
+      "perfilId": "p_mw6zqbv011zg",
+      "nome": "Pedro",
+      "itens": {
+        "fitaPequena": 90,
+        "fitaGrande": 13,
+        "canetao": 15,
+        "sacolinha": 12,
+        "sacolao": 0
+      },
+      "troco": 50,
+      "ts": 1794196121952,
+      "usado": false
+    },
+    {
       "id": "a_mw8ok9wx3e6z",
       "perfilId": "p_mw6zofjdg9ih",
       "nome": "Felipe",
