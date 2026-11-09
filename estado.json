@@ -52,6 +52,21 @@
   "removidos": [],
   "armazenados": [
     {
+      "id": "a_mw8qi7gfrkqz",
+      "perfilId": "p_mw6zqhe9guxk",
+      "nome": "Jhony",
+      "itens": {
+        "fitaPequena": 90,
+        "fitaGrande": 13,
+        "canetao": 20,
+        "sacolinha": 20,
+        "sacolao": 0
+      },
+      "troco": 50,
+      "ts": 1794196893759,
+      "usado": false
+    },
+    {
       "id": "a_mw8qc91lj09c",
       "perfilId": "p_mw6zpkj1cufy",
       "nome": "Dreyson",
