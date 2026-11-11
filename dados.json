@@ -1,5 +1,22 @@
 [
   {
+    "id": "reg_1794394127074_357",
+    "data": "11/11",
+    "nome_funcionario": "Não informado",
+    "perfil_id": null,
+    "resumo": {
+      "vendas": 10,
+      "comissao": 2,
+      "patrao": 8,
+      "qtd": 1,
+      "troco": 0
+    },
+    "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1794394127074_357-1794394127130.jpg",
+    "caminho_imagem": "comprovantes/comprovante-reg_1794394127074_357-1794394127130.jpg",
+    "hash": "-1806084420",
+    "atualizadoEm": 1794394128739
+  },
+  {
     "id": "reg_1794394100616_689",
     "data": "11/11",
     "nome_funcionario": "Não informado",
