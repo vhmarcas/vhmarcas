@@ -81,7 +81,8 @@
       },
       "troco": 100,
       "ts": 1794800095661,
-      "usado": false
+      "usado": true,
+      "usadoEm": 1794821781667
     }
   ]
 }
