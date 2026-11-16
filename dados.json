@@ -5,16 +5,16 @@
     "nome_funcionario": "Quiel",
     "perfil_id": "p_mw6ygkbn7dos",
     "resumo": {
-      "vendas": 1495,
-      "comissao": 334.5,
-      "patrao": 1260.5,
-      "qtd": 148,
+      "vendas": 1415,
+      "comissao": 310.5,
+      "patrao": 1204.5,
+      "qtd": 140,
       "troco": 100
     },
-    "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1794821781667_178-1794821834177.jpg",
-    "caminho_imagem": "comprovantes/comprovante-reg_1794821781667_178-1794821834177.jpg",
-    "hash": "-378110633",
-    "atualizadoEm": 1794821835983
+    "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1794821781667_178-1794821893039.jpg",
+    "caminho_imagem": "comprovantes/comprovante-reg_1794821781667_178-1794821893039.jpg",
+    "hash": "-1190381975",
+    "atualizadoEm": 1794821896052
   },
   {
     "id": "reg_1794394613653_644",
