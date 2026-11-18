@@ -1,5 +1,22 @@
 [
   {
+    "id": "reg_1794994297690_191",
+    "data": "18/11",
+    "nome_funcionario": "Felipe",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "resumo": {
+      "vendas": 395,
+      "comissao": 116.5,
+      "patrao": 378.5,
+      "qtd": 39,
+      "troco": 100
+    },
+    "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1794994297690_191-1794994297772.jpg",
+    "caminho_imagem": "comprovantes/comprovante-reg_1794994297690_191-1794994297772.jpg",
+    "hash": "187040568",
+    "atualizadoEm": 1794994300970
+  },
+  {
     "id": "reg_1794910023759_333",
     "data": "17/11",
     "nome_funcionario": "Jhony",
