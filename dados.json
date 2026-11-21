@@ -241,7 +241,7 @@
     "id": "reg_1794392404812_760",
     "data": "11/11",
     "nome_funcionario": "Gabriel",
-    "perfil_id": null,
+    "perfil_id": "p_mw6ygkbn7dos",
     "resumo": {
       "vendas": 3000,
       "comissao": 846,
@@ -252,7 +252,8 @@
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1794392404812_760-1794392404891.jpg",
     "caminho_imagem": "comprovantes/comprovante-reg_1794392404812_760-1794392404891.jpg",
     "hash": "-340090100",
-    "atualizadoEm": 1794392408320
+    "atualizadoEm": 1794392408320,
+    "perfil_auto": true
   },
   {
     "id": "reg_1794389049496_298",
@@ -413,7 +414,9 @@
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1790048892233.jpg",
     "caminho_imagem": "comprovantes/comprovante-1790048892233.jpg",
-    "hash": "-2135798133"
+    "hash": "-2135798133",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1789982057781",
@@ -421,216 +424,278 @@
     "nome_funcionario": "Quiel",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1789982055592.jpg",
     "caminho_imagem": "comprovantes/comprovante-1789982055592.jpg",
-    "hash": "-107550693"
+    "hash": "-107550693",
+    "perfil_id": "p_mw6ygkbn7dos",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788167046815",
     "data": "31/08",
     "nome_funcionario": "Quiel",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1788167044424.png",
-    "caminho_imagem": "comprovantes/comprovante-1788167044424.png"
+    "caminho_imagem": "comprovantes/comprovante-1788167044424.png",
+    "perfil_id": "p_mw6ygkbn7dos",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788150718969",
     "data": "26/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1788150717390.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1788150717390.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1788150717390.jpg",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788150561910",
     "data": "24/08",
     "nome_funcionario": "Lucas",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1788150559923.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1788150559923.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1788150559923.jpg",
+    "perfil_id": "p_mw6zomlfjxcz",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788150540346",
     "data": "24/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1788150538706.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1788150538706.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1788150538706.jpg",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788150381151",
     "data": "18/08",
     "nome_funcionario": "Quiel",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1788150379503.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1788150379503.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1788150379503.jpg",
+    "perfil_id": "p_mw6ygkbn7dos",
+    "perfil_auto": true
   },
   {
     "id": "reg_1788150357155",
     "data": "18/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1788150355511.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1788150355511.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1788150355511.jpg",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1787650050069",
     "data": "25/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1787650047671.png",
-    "caminho_imagem": "comprovantes/comprovante-1787650047671.png"
+    "caminho_imagem": "comprovantes/comprovante-1787650047671.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1787563747859",
     "data": "24/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1787563744811.png",
-    "caminho_imagem": "comprovantes/comprovante-1787563744811.png"
+    "caminho_imagem": "comprovantes/comprovante-1787563744811.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1787132169866",
     "data": "19/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1787132167602.png",
-    "caminho_imagem": "comprovantes/comprovante-1787132167602.png"
+    "caminho_imagem": "comprovantes/comprovante-1787132167602.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1787046909460",
     "data": "17/08",
     "nome_funcionario": "Quiel",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-antigo-1787046907558.jpg",
-    "caminho_imagem": "comprovantes/comprovante-antigo-1787046907558.jpg"
+    "caminho_imagem": "comprovantes/comprovante-antigo-1787046907558.jpg",
+    "perfil_id": "p_mw6ygkbn7dos",
+    "perfil_auto": true
   },
   {
     "id": "reg_1787044805640",
     "data": "18/08",
     "nome_funcionario": "Reginado",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1787044803205.png",
-    "caminho_imagem": "comprovantes/comprovante-1787044803205.png"
+    "caminho_imagem": "comprovantes/comprovante-1787044803205.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786960667174",
     "data": "17/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786960664908.png",
-    "caminho_imagem": "comprovantes/comprovante-1786960664908.png"
+    "caminho_imagem": "comprovantes/comprovante-1786960664908.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786959238055",
     "data": "17/08",
     "nome_funcionario": "Reginado",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786959235805.png",
-    "caminho_imagem": "comprovantes/comprovante-1786959235805.png"
+    "caminho_imagem": "comprovantes/comprovante-1786959235805.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786527571469",
     "data": "12/08",
     "nome_funcionario": "Felipe 24",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786527568852.png",
-    "caminho_imagem": "comprovantes/comprovante-1786527568852.png"
+    "caminho_imagem": "comprovantes/comprovante-1786527568852.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786441017703",
     "data": "11/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786441015362.png",
-    "caminho_imagem": "comprovantes/comprovante-1786441015362.png"
+    "caminho_imagem": "comprovantes/comprovante-1786441015362.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786440072333",
     "data": "11/08",
     "nome_funcionario": "Felipe",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786440070108.png",
-    "caminho_imagem": "comprovantes/comprovante-1786440070108.png"
+    "caminho_imagem": "comprovantes/comprovante-1786440070108.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786356661249",
     "data": "10/08",
     "nome_funcionario": "Cristian",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786356658846.png",
-    "caminho_imagem": "comprovantes/comprovante-1786356658846.png"
+    "caminho_imagem": "comprovantes/comprovante-1786356658846.png",
+    "perfil_id": "p_mw6zp0xuke6c",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786356173650",
     "data": "10/08",
     "nome_funcionario": "Paulinho",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786356171450.png",
-    "caminho_imagem": "comprovantes/comprovante-1786356171450.png"
+    "caminho_imagem": "comprovantes/comprovante-1786356171450.png",
+    "perfil_id": "p_mw6zp0xuke6c",
+    "perfil_auto": true
   },
   {
     "id": "reg_1786355590782",
     "data": "10/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1786355588021.png",
-    "caminho_imagem": "comprovantes/comprovante-1786355588021.png"
+    "caminho_imagem": "comprovantes/comprovante-1786355588021.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785938391287",
     "data": "03/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785938389143.png",
-    "caminho_imagem": "comprovantes/comprovante-1785938389143.png"
+    "caminho_imagem": "comprovantes/comprovante-1785938389143.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785938203482",
     "data": "29/07",
     "nome_funcionario": "Reginaldo otoni",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785938200884.png",
-    "caminho_imagem": "comprovantes/comprovante-1785938200884.png"
+    "caminho_imagem": "comprovantes/comprovante-1785938200884.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785938109074",
     "data": "05/08",
     "nome_funcionario": "Reginaldo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785938106856.png",
-    "caminho_imagem": "comprovantes/comprovante-1785938106856.png"
+    "caminho_imagem": "comprovantes/comprovante-1785938106856.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785938064728",
     "data": "04/08",
     "nome_funcionario": "Paulinho",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785938062390.png",
-    "caminho_imagem": "comprovantes/comprovante-1785938062390.png"
+    "caminho_imagem": "comprovantes/comprovante-1785938062390.png",
+    "perfil_id": "p_mw6zp0xuke6c",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785938027604",
     "data": "04/08",
     "nome_funcionario": "Cristian tabernáculo",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785938025553.png",
-    "caminho_imagem": "comprovantes/comprovante-1785938025553.png"
+    "caminho_imagem": "comprovantes/comprovante-1785938025553.png",
+    "perfil_id": "p_mwpnf9kh7rhk",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937950983",
     "data": "03/08",
     "nome_funcionario": "Cristian",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937949039.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937949039.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937949039.png",
+    "perfil_id": "p_mw6zp0xuke6c",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937900073",
     "data": "05/08",
     "nome_funcionario": "Felipe 24 horas",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937897932.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937897932.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937897932.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937833989",
     "data": "04/08",
     "nome_funcionario": "Felipe 24 hs",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937831786.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937831786.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937831786.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937774604",
     "data": "03/08",
     "nome_funcionario": "Felipe 24 hs",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937772624.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937772624.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937772624.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937731112",
     "data": "29/07",
     "nome_funcionario": "Felipe 24 horas",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937728912.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937728912.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937728912.png",
+    "perfil_id": "p_mw6zofjdg9ih",
+    "perfil_auto": true
   },
   {
     "id": "reg_1785937678572",
     "data": "29/07",
     "nome_funcionario": "Quiel",
     "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-1785937676047.png",
-    "caminho_imagem": "comprovantes/comprovante-1785937676047.png"
+    "caminho_imagem": "comprovantes/comprovante-1785937676047.png",
+    "perfil_id": "p_mw6ygkbn7dos",
+    "perfil_auto": true
   }
 ]
