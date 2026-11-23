@@ -91,6 +91,22 @@
   ],
   "armazenados": [
     {
+      "id": "a_mwsue4y6izpn",
+      "perfilId": "p_mw6zofjdg9ih",
+      "nome": "Felipe",
+      "itens": {
+        "fitaPequena": 60,
+        "fitaGrande": 12,
+        "canetao": 12,
+        "sacolinha": 15,
+        "sacolao": 10,
+        "pochete": 3
+      },
+      "troco": 100,
+      "ts": 1795412745870,
+      "usado": false
+    },
+    {
       "id": "a_mwsq5x6n1n9g",
       "perfilId": "p_mwpn1894x06a",
       "nome": "Igor",
