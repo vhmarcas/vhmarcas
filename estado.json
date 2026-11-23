@@ -153,7 +153,8 @@
       "troco": 0,
       "ts": 1795395921818,
       "usado": false,
-      "cancelado": true
+      "cancelado": true,
+      "canceladoEm": 1795402052254
     }
   ]
 }
