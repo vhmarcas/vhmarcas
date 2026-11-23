@@ -89,5 +89,22 @@
   "removidos": [
     "p_mw6zp0xuke6c"
   ],
-  "armazenados": []
+  "armazenados": [
+    {
+      "id": "a_mwskdjfd2jyt",
+      "perfilId": "p_mw6zofjdg9ih",
+      "nome": "Felipe",
+      "itens": {
+        "fitaPequena": 0,
+        "fitaGrande": 0,
+        "canetao": 0,
+        "sacolinha": 0,
+        "sacolao": 0,
+        "pochete": 0
+      },
+      "troco": 0,
+      "ts": 1795395921818,
+      "usado": false
+    }
+  ]
 }
