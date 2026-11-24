@@ -106,8 +106,9 @@
       },
       "troco": 100,
       "ts": 1795495263997,
-      "usado": false,
-      "cancelado": false
+      "usado": true,
+      "cancelado": false,
+      "usadoEm": 1795514514443
     },
     {
       "id": "a_mwu698m139av",
