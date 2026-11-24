@@ -134,5 +134,25 @@
     "tipo": "texto",
     "texto": "**Hoje, 24/11/2026** (agora 16:55:11)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
     "v": 1
+  },
+  {
+    "id": "m_mwv7o09q9nek0",
+    "ts": 1795555973726,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "Quer mesmo **apagar toda a conversa**? Isso apaga as mensagens, fotos, áudios e vídeos daqui, do GitHub e dos outros celulares. **Os perfis, cálculos e pedidos para o Gabriel não são apagados.**",
+    "v": 1,
+    "card": {
+      "titulo": "Apagar a conversa",
+      "estado": "executando",
+      "botoes": null,
+      "wiz": false,
+      "passos": [
+        {
+          "t": "Apagando no GitHub",
+          "ok": null
+        }
+      ]
+    }
   }
 ]
