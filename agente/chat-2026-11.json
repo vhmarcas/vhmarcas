@@ -118,5 +118,21 @@
     "tipo": "texto",
     "texto": "**Hoje, 24/11/2026** (agora 13:18:23)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
     "v": 1
+  },
+  {
+    "id": "m_mwv46cnet30mn",
+    "ts": 1795550111114,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "Resumo de hoje",
+    "v": 1
+  },
+  {
+    "id": "m_mwv46cwh3ts5i",
+    "ts": 1795550111442,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "**Hoje, 24/11/2026** (agora 16:55:11)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
+    "v": 1
   }
 ]
