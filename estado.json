@@ -53,6 +53,14 @@
       "senhaTxt": "4619"
     },
     {
+      "id": "p_mwu7xpbc1ibk",
+      "nome": "Lucas",
+      "criado": 1795495959912,
+      "atualizadoEm": 1795495959912,
+      "senhaHash": "252c4ee15fe1cb712a3cffd941792c8fabc47c3665aff5d207ad3078aedb54c3",
+      "senhaTxt": "8360"
+    },
+    {
       "id": "p_mwp7dri10sn2",
       "nome": "Maicon",
       "criado": 1795192698745,
@@ -98,7 +106,8 @@
       },
       "troco": 100,
       "ts": 1795495263997,
-      "usado": false
+      "usado": false,
+      "cancelado": false
     },
     {
       "id": "a_mwu698m139av",
