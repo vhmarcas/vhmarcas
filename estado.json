@@ -85,6 +85,22 @@
   ],
   "armazenados": [
     {
+      "id": "a_mwu698m139av",
+      "perfilId": "p_mw6zpkj1cufy",
+      "nome": "Dreyson",
+      "itens": {
+        "fitaPequena": 110,
+        "fitaGrande": 12,
+        "canetao": 33,
+        "sacolinha": 23,
+        "sacolao": 5,
+        "pochete": 4
+      },
+      "troco": 100,
+      "ts": 1795493138905,
+      "usado": false
+    },
+    {
       "id": "a_mwu5qffi1vyk",
       "perfilId": "p_mw6ygkbn7dos",
       "nome": "Quiel",
