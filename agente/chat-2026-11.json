@@ -50,5 +50,29 @@
       "estado": "confirmado",
       "wiz": false
     }
+  },
+  {
+    "id": "m_mwuvsr347115z",
+    "ts": 1795536039712,
+    "de": "victor",
+    "tipo": "audio",
+    "texto": "",
+    "v": 2,
+    "midia": {
+      "mime": "audio/webm;codecs=opus",
+      "ext": "webm",
+      "bytes": 11086,
+      "up": true,
+      "dur": 3,
+      "caminho": "agente/midia/m_mwuvsr347115z.webm"
+    }
+  },
+  {
+    "id": "m_mwuvsr4ztz0m3",
+    "ts": 1795536039779,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "Guardei o áudio na conversa e ele fica salvo no GitHub. **Ainda não consegui transformar em texto** (a IA de voz não está ligada neste aparelho). Escreva o que precisa, ou ligue o Parakeet em 🧠.",
+    "v": 1
   }
 ]
