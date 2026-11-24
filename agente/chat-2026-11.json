@@ -74,5 +74,33 @@
     "tipo": "texto",
     "texto": "Guardei o áudio na conversa e ele fica salvo no GitHub. **Ainda não consegui transformar em texto** (a IA de voz não está ligada neste aparelho). Escreva o que precisa, ou ligue o Parakeet em 🧠.",
     "v": 1
+  },
+  {
+    "id": "m_mwuwf08uxv65y",
+    "ts": 1795537078014,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "Yae arroganti",
+    "v": 1
+  },
+  {
+    "id": "m_mwuwf0j3306ea",
+    "ts": 1795537078383,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "Não entendi bem esse pedido. No modo guiado eu consigo:\n• responder sobre o dia, a semana e o mês\n• mostrar quem guardou produtos\n• adicionar, renomear, trocar a senha ou excluir um perfil\n• cancelar armazenamentos de um perfil\n• anotar um pedido para o Gabriel\n\nPara conversar livremente, ligue a IA local em 🧠 (se o aparelho aguentar).\n\nSe for algo para **mudar no site**, eu posso anotar como pedido para o Gabriel.",
+    "v": 1,
+    "card": {
+      "titulo": "Quer que eu anote para o Gabriel?",
+      "extra": [
+        {
+          "t": "📝 Anotar para o Gabriel",
+          "a": "pedir-gabriel",
+          "v": "Yae arroganti"
+        }
+      ],
+      "estado": "confirmado",
+      "wiz": false
+    }
   }
 ]
