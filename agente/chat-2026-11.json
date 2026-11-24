@@ -102,5 +102,13 @@
       "estado": "confirmado",
       "wiz": false
     }
+  },
+  {
+    "id": "m_mwuwfjroh6q52",
+    "ts": 1795537103316,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "Esse mês de novembro como foi",
+    "v": 1
   }
 ]
