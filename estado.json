@@ -140,8 +140,9 @@
       },
       "troco": 100,
       "ts": 1795492261278,
-      "usado": false,
-      "cancelado": false
+      "usado": true,
+      "cancelado": false,
+      "usadoEm": 1795513002677
     },
     {
       "id": "a_mwsue4y6izpn",
