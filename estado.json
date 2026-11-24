@@ -54,9 +54,9 @@
     },
     {
       "id": "p_mwu7xpbc1ibk",
-      "nome": "Lucas",
+      "nome": "Lucas Carmeiro",
       "criado": 1795495959912,
-      "atualizadoEm": 1795495959912,
+      "atualizadoEm": 1795495982138,
       "senhaHash": "252c4ee15fe1cb712a3cffd941792c8fabc47c3665aff5d207ad3078aedb54c3",
       "senhaTxt": "8360"
     },
@@ -212,7 +212,8 @@
       "troco": 0,
       "ts": 1795395921818,
       "usado": false,
-      "cancelado": true
+      "cancelado": true,
+      "canceladoEm": 1795402052254
     }
   ]
 }
