@@ -1,5 +1,48 @@
 [
   {
+    "id": "reg_1795513396584_907",
+    "data": "24/11",
+    "nome_funcionario": "Dreyson",
+    "perfil_id": "p_mw6zpkj1cufy",
+    "resumo": {
+      "vendas": 715,
+      "comissao": 159.5,
+      "patrao": 655.5,
+      "qtd": 69,
+      "troco": 100,
+      "prod": [
+        {
+          "n": "Fita pequena",
+          "q": 46
+        },
+        {
+          "n": "Fita grande",
+          "q": 5
+        },
+        {
+          "n": "Canetão",
+          "q": 10
+        },
+        {
+          "n": "Sacolinha",
+          "q": 4
+        },
+        {
+          "n": "Sacolão",
+          "q": 3
+        },
+        {
+          "n": "Pochete antifurto",
+          "q": 1
+        }
+      ]
+    },
+    "imagem_url": "https://raw.githubusercontent.com/vhmarcas/vhmarcas/main/comprovantes/comprovante-reg_1795513396584_907-1795513396663.jpg",
+    "caminho_imagem": "comprovantes/comprovante-reg_1795513396584_907-1795513396663.jpg",
+    "hash": "1703739376",
+    "atualizadoEm": 1795513398639
+  },
+  {
     "id": "reg_1795513002677_169",
     "data": "24/11",
     "nome_funcionario": "Quiel",
