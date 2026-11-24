@@ -6,5 +6,21 @@
     "tipo": "texto",
     "texto": "Oi, Victor! Eu sou o **Ajudante** do VH Marcas. Eu sei tudo do site e olho ele de novo **a cada segundo**.\n\nPosso responder sobre os números, mostrar quem guardou produtos, adicionar ou mexer em perfis (sempre perguntando, simulando e pedindo sua confirmação) e anotar pedidos para o **Gabriel** — que é quem atualiza o site. Eu não mexo no código.\n\nEsta conversa fica guardada no GitHub: você pode continuar de qualquer celular. Pode me mandar texto, áudio, foto ou vídeo.",
     "v": 1
+  },
+  {
+    "id": "m_mwuvmqlke40y1",
+    "ts": 1795535759144,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "Resumo de hoje",
+    "v": 1
+  },
+  {
+    "id": "m_mwuvmqti92vkw",
+    "ts": 1795535759430,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "**Hoje, 24/11/2026** (agora 12:55:58)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
+    "v": 1
   }
 ]
