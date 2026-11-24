@@ -110,5 +110,13 @@
     "tipo": "texto",
     "texto": "Esse mês de novembro como foi",
     "v": 1
+  },
+  {
+    "id": "m_mwuwfk1jj45mn",
+    "ts": 1795537103671,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "**Hoje, 24/11/2026** (agora 13:18:23)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
+    "v": 1
   }
 ]
