@@ -22,5 +22,33 @@
     "tipo": "texto",
     "texto": "**Hoje, 24/11/2026** (agora 12:55:58)\n• Cálculos guardados: **3**\n• Vendas: **R$ 3.035,00**\n• Comissão dos free lancers: **R$ 669,50**\n• Patrão deve receber: **R$ 2.665,50**\n• Imagens armazenadas aguardando cálculo: **0**\n• Turno: ☀️ fora do horário de trabalho",
     "v": 1
+  },
+  {
+    "id": "m_mwuvmxm839xja",
+    "ts": 1795535768240,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "O quiel fez quanto",
+    "v": 1
+  },
+  {
+    "id": "m_mwuvmxtpd0kmn",
+    "ts": 1795535768509,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "Não entendi bem esse pedido. No modo guiado eu consigo:\n• responder sobre o dia, a semana e o mês\n• mostrar quem guardou produtos\n• adicionar, renomear, trocar a senha ou excluir um perfil\n• cancelar armazenamentos de um perfil\n• anotar um pedido para o Gabriel\n\nPara conversar livremente, ligue a IA local em 🧠 (se o aparelho aguentar).\n\nSe for algo para **mudar no site**, eu posso anotar como pedido para o Gabriel.",
+    "v": 1,
+    "card": {
+      "titulo": "Quer que eu anote para o Gabriel?",
+      "extra": [
+        {
+          "t": "📝 Anotar para o Gabriel",
+          "a": "pedir-gabriel",
+          "v": "O quiel fez quanto"
+        }
+      ],
+      "estado": "confirmado",
+      "wiz": false
+    }
   }
 ]
