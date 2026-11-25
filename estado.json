@@ -167,7 +167,7 @@
     {
       "id": "a_mwsq5x6n1n9g",
       "perfilId": "p_mwpn1894x06a",
-      "nome": "Igor Royal",
+      "nome": "Igor",
       "itens": {
         "fitaPequena": 90,
         "fitaGrande": 12,
@@ -215,8 +215,7 @@
       "troco": 0,
       "ts": 1795395921818,
       "usado": false,
-      "cancelado": true,
-      "canceladoEm": 1795402052254
+      "cancelado": true
     }
   ]
 }
