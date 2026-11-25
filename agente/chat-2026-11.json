@@ -154,5 +154,33 @@
         }
       ]
     }
+  },
+  {
+    "id": "m_mwvel7vyyicoc",
+    "ts": 1795567600942,
+    "de": "victor",
+    "tipo": "texto",
+    "texto": "Modelo ativo?",
+    "v": 1
+  },
+  {
+    "id": "m_mwvel8426i9ft",
+    "ts": 1795567601234,
+    "de": "agente",
+    "tipo": "texto",
+    "texto": "Não entendi bem esse pedido. No modo guiado eu consigo:\n• responder sobre o dia, a semana e o mês\n• mostrar quem guardou produtos\n• adicionar, renomear, trocar a senha ou excluir um perfil\n• cancelar armazenamentos de um perfil\n• anotar um pedido para o Gabriel\n\nPara conversar livremente, ligue a IA local em 🧠 (se o aparelho aguentar).\n\nSe for algo para **mudar no site**, eu posso anotar como pedido para o Gabriel.",
+    "v": 1,
+    "card": {
+      "titulo": "Quer que eu anote para o Gabriel?",
+      "extra": [
+        {
+          "t": "📝 Anotar para o Gabriel",
+          "a": "pedir-gabriel",
+          "v": "Modelo ativo?"
+        }
+      ],
+      "estado": "confirmado",
+      "wiz": false
+    }
   }
 ]
